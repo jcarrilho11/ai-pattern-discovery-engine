@@ -1,0 +1,17 @@
+{
+  "data": [
+    { "revenue": 125000, "customers": 450, "churnRate": 12.5, "satisfaction": 4.2 },
+    { "revenue": 89000, "customers": 320, "churnRate": 18.3, "satisfaction": 3.8 },
+    { "revenue": 210000, "customers": 780, "churnRate": 8.1, "satisfaction": 4.7 },
+    { "revenue": 156000, "customers": 590, "churnRate": 10.2, "satisfaction": 4.4 },
+    { "revenue": 92000, "customers": 340, "churnRate": 16.7, "satisfaction": 3.9 },
+    { "revenue": 198000, "customers": 720, "churnRate": 9.3, "satisfaction": 4.6 },
+    { "revenue": 134000, "customers": 480, "churnRate": 11.8, "satisfaction": 4.3 },
+    { "revenue": 178000, "customers": 650, "churnRate": 9.7, "satisfaction": 4.5 },
+    { "revenue": 87000, "customers": 310, "churnRate": 19.2, "satisfaction": 3.7 },
+    { "revenue": 145000, "customers": 520, "churnRate": 11.1, "satisfaction": 4.3 },
+    { "revenue": 203000, "customers": 750, "churnRate": 8.5, "satisfaction": 4.6 },
+    { "revenue": 118000, "customers": 420, "churnRate": 13.4, "satisfaction": 4.1 }
+  ],
+  "clusters": 3
+}
